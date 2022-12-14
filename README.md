@@ -134,8 +134,7 @@ Please cite this compendium as:
 @article{mosteiro_romero_2022,
   title={Elastic buildings: Calibrated district-scale simulation of occupant-flexible campus operation for hybrid work optimization},
   author={Mart\'in Mosteiro-Romero and Clayton Miller and Adrian Chong and Rudi Stouffs},
-  year={\noop{3001}in submission 2022},
-  journal={Building and Environment},
+  journal={Submitted to Building and Environment},
 }
 ```
 
